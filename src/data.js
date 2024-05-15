@@ -27,6 +27,6 @@ export const products = [
     {
         id: 6,
         img: "https://i.ibb.co/fGRRTNB/screencapture-localhost-3000-2024-05-15-23-40-15.png",
-        link: "https://inquisitive-centaur-08b5dd.netlify.app/",
+        link: "https://friendly-dubinsky-658bcf.netlify.app/",
     },
 ];
