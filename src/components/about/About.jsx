@@ -4,11 +4,21 @@ import Award from "../../img/award.png"
 const About = () => {
   return (
     <div className='a'>
+        <div className="aaa">
         <div className="a-left">
             <div className="a-card bg"></div>
             <div className="a-card">
-                <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Nnx8fGVufDB8fHx8&w=1000&q=80" alt="" className="a-img" />
+                
+                <a href="https://www.udemy.com/certificate/UC-ead9f57d-e0a5-4efc-82be-869d1863931a/"><img src="https://i.ibb.co/THZfz5Q/cert1.jpg" alt="" className="a-img" /></a>
             </div>
+        </div>
+        <div className="a-left">
+            <div className="a-card bg"></div>
+            <div className="a-card">
+                
+                <a href="https://www.udemy.com/certificate/UC-6fa78645-a2c0-46a0-b352-c58daa40f898/"><img src="https://i.ibb.co/zV4dd8X/cert2.jpg" alt="" className="a-img" /></a>
+            </div>
+        </div>
         </div>
         <div className="a-right">
             <h1 className="a-title">About Me</h1>
