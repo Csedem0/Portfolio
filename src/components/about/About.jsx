@@ -21,21 +21,45 @@ const About = () => {
         </div>
         </div>
         <div className="a-right">
-            <h1 className="a-title">About Me</h1>
+            <h1 className="a-title">Some Of My Certificates And My Skills</h1>
             <p className="a-sub">
-                We are everything you have been looking for in your world of website creation.
+              I am very fluent with the skills listed and  <a href="https://github.com/Csedem0">Click to check out my GITHUB</a>
             </p>
             <p className="a-desc">
-                I am the CEO of Demo Cse, which deals on programming, website creation, branding, logo making, portfolio designing, and other. We are upcoming but we have handled a lot of projects which were pure success and we are highly sort for. It will be our pleasure to handle your also.
+           
+HTML/CSS,
+SASS/SCSS,
+Javascript,
+Python,
+Scikit Learn,
+Pandas,
+Numpy,
+Matplotlib,
+Django,
+React Js,
+Typescript,
+Next Js,
+Express Js,
+Node Js,
+MongoDB,
+My SQL,
+Sqlite3,
+Postgress sql,
+Firebase,
+MERN,
+Cpanel,
+Render,
+Vercel,
+Figma.
             </p>
             <div className="a-award">
                 <img src={Award} alt="" className="a-award-img" />
                 <div className="a-award-texts">
                     <h4 className="a-award-title">
-                        Interstate Design Awards 2022
+                        Reviews
                     </h4>
                     <p className="a-award-desc">
-                        Am an award winning UI/UX designer from a interstate held programmers designing competition and i have even more awards...
+                        I have over five years experience in Web/App developement and Data Science career, and have worked with several individuals and organizations who has given me good reviews.
                     </p>
                 </div>
             </div>

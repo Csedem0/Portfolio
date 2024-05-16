@@ -7,21 +7,21 @@ const Intro = () => {
         <div className="i-left">
           <div className="i-left-wrapper">
             <h2 className="i-intro">Hello, My name is</h2>
-            <h1 className="i-name">Emmanuel Chukwu</h1>
+            <h1 className="i-name">Emmanuel Sobulachi</h1>
             <div className="i-title">
               <div className="i-title-wrapper">
-                <div className="i-title-item">Web Developer</div>
-                <div className="i-title-item">React Devloper</div>
+                <div className="i-title-item">App Developer</div>
+                <div className="i-title-item">FullStack Web Developer</div>
+                <div className="i-title-item">Data Scientist</div>
+                <div className="i-title-item">Data Analyst</div>
                 <div className="i-title-item">UI/UX Designer</div>
-                <div className="i-title-item">Node JS Pro</div>
-                <div className="i-title-item">Hacker</div>
               </div>
             </div>
-            <p className="i-desc">
+            {/* <p className="i-desc">
               I design and develope services for customers of all sizes,
               specializing in creating stylish, modern websites, wed services and
               online stores
-            </p>
+            </p> */}
           </div>
         </div>
         <div className="i-right">

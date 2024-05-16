@@ -50,12 +50,7 @@ const Contact = () => {
                           emmasobula@gmail.com
                     </div>
                     <div className="c-info-item">
-                        <img 
-                          src={Address} 
-                          alt="" 
-                          className="c-icon" />
-                          196 Old Refinary Road, Elelenwo, PortHarcourt, Rivers State, Nigeria.
-                    </div>
+                       </div>
                 </div>
             </div>
             <div className="c-right">
