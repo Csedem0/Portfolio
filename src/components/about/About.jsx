@@ -4,7 +4,7 @@ import Award from "../../img/award.png"
 const About = () => {
   return (
     <div className='a'>
-        <div className="aaa">
+        {/* <div className="aaa">
         <div className="a-left">
             <div className="a-card bg"></div>
             <div className="a-card">
@@ -19,7 +19,7 @@ const About = () => {
                 <a href="https://www.udemy.com/certificate/UC-6fa78645-a2c0-46a0-b352-c58daa40f898/"><img src="https://i.ibb.co/zV4dd8X/cert2.jpg" alt="" className="a-img" /></a>
             </div>
         </div>
-        </div>
+        </div> */}
         <div className="a-right">
             <h1 className="a-title">Some Of My Certificates And My Skills</h1>
             <p className="a-sub">

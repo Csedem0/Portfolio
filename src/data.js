@@ -1,32 +1,32 @@
 export const products = [
     {
         id: 1,
-        img: "https://i.ibb.co/xCz4WWy/screencapture-blancaluxury-home-en-index-html-2024-05-15-04-55-13.png",
-        link: "https://blancaluxury.com/",
+        img: "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?cs=srgb&dl=pexels-kevin-ku-92347-577585.jpg&fm=jpg",
+        link: "https://rabboni-solutions-technologies-6mxy.onrender.com",
     },
     {
         id: 2,
-        img: "https://i.ibb.co/HX6zQPP/screencapture-trashexpress-ng-accounts-2024-05-15-04-54-03.png",
-        link: "https://trashexpress.ng/",
+        img: "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?semt=ais_hybrid&w=740",
+        link: "http://www.swapdesk.ng",
     },
     {
         id: 3,
-        img: "https://i.ibb.co/ypz4SWJ/screencapture-localhost-8888-notebooks-data-science-portfolio-ipynb-2024-05-15-22-51-04.png",
-        link: "https://",
+        img: "https://images.ctfassets.net/23aumh6u8s0i/5gieAxw4n3rxYsyjaAnhGm/aa67599b991ad67b3241bf730fc2a131/security_programming_hero.jpg",
+        link: "https://trashexpress.ng/",
     },
     {
         id: 4,
-        img: "https://i.ibb.co/5jbJspN/screencapture-appleprediction-onrender-accounts-2024-05-15-21-59-29.png",
+        img: "https://fiverr-res.cloudinary.com/image/upload/w_880/f_auto,q_auto/v1/attachments/generic_asset/asset/767bc10a0c44b0a67be1a94aea270205-1609336032121/website%20development-min.jpg",
         link: "https://appleprediction.onrender.com/",
     },
-    {
-        id: 5,
-        img: "https://i.ibb.co/CHJ7G28/screencapture-localhost-8888-notebooks-data-science-portfolio-1-ipynb-2024-05-15-23-07-14.png",
-        link: "https://",
-    },
-    {
-        id: 6,
-        img: "https://i.ibb.co/fGRRTNB/screencapture-localhost-3000-2024-05-15-23-40-15.png",
-        link: "https://friendly-dubinsky-658bcf.netlify.app/",
-    },
+    // {
+    //     id: 5,
+    //     img: "https://i.ibb.co/CHJ7G28/screencapture-localhost-8888-notebooks-data-science-portfolio-1-ipynb-2024-05-15-23-07-14.png",
+    //     link: "https://",
+    // },
+    // {
+    //     id: 6,
+    //     img: "https://i.ibb.co/fGRRTNB/screencapture-localhost-3000-2024-05-15-23-40-15.png",
+    //     link: "https://friendly-dubinsky-658bcf.netlify.app/",
+    // },
 ];

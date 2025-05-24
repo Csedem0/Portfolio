@@ -40,14 +40,14 @@ const Contact = () => {
                           src={Phone} 
                           alt="" 
                           className="c-icon" />
-                          09159816020
+                          09156253293
                     </div>
                     <div className="c-info-item">
                         <img 
                           src={Email} 
                           alt="" 
                           className="c-icon" />
-                          emmasobula@gmail.com
+                          estherjosephnafo@gmail.com
                     </div>
                     <div className="c-info-item">
                        </div>
