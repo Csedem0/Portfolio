@@ -11,7 +11,7 @@ export const products = [
     },
     {
         id: 3,
-        img: "https://trashexpress.ng/",
+        img: "https://drive.google.com/file/d/15IcX7bn2qP15nr-24Nde348w9RximdNd/view?usp=sharing",
         link: "https://trashexpress.ng/",
     },
     {
