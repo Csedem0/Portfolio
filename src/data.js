@@ -11,7 +11,7 @@ export const products = [
     },
     {
         id: 3,
-        img: "https://images.ctfassets.net/23aumh6u8s0i/5gieAxw4n3rxYsyjaAnhGm/aa67599b991ad67b3241bf730fc2a131/security_programming_hero.jpg",
+        img: "https://trashexpress.ng/",
         link: "https://trashexpress.ng/",
     },
     {

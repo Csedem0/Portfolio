@@ -23,7 +23,7 @@ const About = () => {
         <div className="a-right">
             <h1 className="a-title">Some Of My Certificates And My Skills</h1>
             <p className="a-sub">
-              I am very fluent with the skills listed and  <a href="https://github.com/Csedem0">Click to check out my GITHUB</a>
+              I am very fluent with the skills listed and  <a href="https://drive.google.com/file/d/1RVCW38xe6XVsqxWTRF4UCZ0msTLxCKva/view?usp=sharing">Click to check out my CV</a>
             </p>
             <p className="a-desc">
            
