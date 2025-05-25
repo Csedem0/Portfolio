@@ -1,7 +1,7 @@
 export const products = [
     {
         id: 1,
-        img: "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?cs=srgb&dl=pexels-kevin-ku-92347-577585.jpg&fm=jpg",
+        img: "https://i.postimg.cc/Gm80s0N4/Rabboni-Solutions.png",
         link: "https://rabboni-solutions-technologies-6mxy.onrender.com",
     },
     {
