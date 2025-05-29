@@ -4,26 +4,26 @@ import Award from "../../img/award.png"
 const About = () => {
   return (
     <div className='a'>
-        {/* <div className="aaa">
+        <div className="aaa">
         <div className="a-left">
             <div className="a-card bg"></div>
             <div className="a-card">
                 
-                <a href="https://www.udemy.com/certificate/UC-ead9f57d-e0a5-4efc-82be-869d1863931a/"><img src="https://i.ibb.co/THZfz5Q/cert1.jpg" alt="" className="a-img" /></a>
+                <a href="https://i.postimg.cc/fWqfXBrd/Executive-legior-image.jpg"><img src="https://i.ibb.co/THZfz5Q/cert1.jpg" alt="" className="a-img" /></a>
             </div>
         </div>
-        <div className="a-left">
+        {/* <div className="a-left">
             <div className="a-card bg"></div>
             <div className="a-card">
                 
                 <a href="https://www.udemy.com/certificate/UC-6fa78645-a2c0-46a0-b352-c58daa40f898/"><img src="https://i.ibb.co/zV4dd8X/cert2.jpg" alt="" className="a-img" /></a>
             </div>
-        </div>
         </div> */}
+        </div>
         <div className="a-right">
             <h1 className="a-title">Some Of My Certificates And My Skills</h1>
             <p className="a-sub">
-              I am very fluent with the skills listed and  <a href="https://drive.google.com/file/d/1RVCW38xe6XVsqxWTRF4UCZ0msTLxCKva/view?usp=sharing">Click to check out my CV</a>
+              I am very fluent with the skills listed and  <a href="https://drive.google.com/file/d/1zGmgaRegLvYfZRgYt9eSdwwDRQAkeaQP/view?usp=sharing">Click to check out my CV</a>
             </p>
             <p className="a-desc">
            
@@ -36,7 +36,14 @@ Pandas,
 Numpy,
 Matplotlib,
 Django,
-React Js,
+Google Workspace, 
+Zoom, 
+Trello, 
+Asana, 
+Calendly, 
+Notion, 
+Telegram.
+{/* React Js,
 Typescript,
 Next Js,
 Express Js,
@@ -50,7 +57,7 @@ MERN,
 Cpanel,
 Render,
 Vercel,
-Figma.
+Figma. */}
             </p>
             <div className="a-award">
                 <img src={Award} alt="" className="a-award-img" />

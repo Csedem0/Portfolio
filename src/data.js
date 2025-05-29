@@ -14,11 +14,11 @@ export const products = [
         img: "https://i.postimg.cc/kGnKMxBn/Trash-Express.png",
         link: "https://trashexpress.ng/",
     },
-    // {
-    //     id: 4,
-    //     img: "https://fiverr-res.cloudinary.com/image/upload/w_880/f_auto,q_auto/v1/attachments/generic_asset/asset/767bc10a0c44b0a67be1a94aea270205-1609336032121/website%20development-min.jpg",
-    //     link: "https://appleprediction.onrender.com/",
-    // },
+    {
+        id: 4,
+        img: "https://i.postimg.cc/fWqfXBrd/Executive-legior-image.jpg",
+        link: "https://portfolio-pn3l.onrender.com/",
+    },
     // {
     //     id: 5,
     //     img: "https://i.ibb.co/CHJ7G28/screencapture-localhost-8888-notebooks-data-science-portfolio-1-ipynb-2024-05-15-23-07-14.png",
